@@ -1,0 +1,13 @@
+.label {
+    -fx-font-family: "Verdana";
+    -fx-font-size: 18px;
+    -fx-underline: false;
+}
+.button {
+    -fx-font-family: "Verdana";
+    -fx-font-size: 16px;
+    -fx-underline: false;
+}
+#temperatureLabel {
+    -fx-font-size: 28px;
+}
